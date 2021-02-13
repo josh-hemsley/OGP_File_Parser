@@ -142,6 +142,6 @@ dmypy.json
 .prof
 
 # Custom
-.text_files/
+text_files/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
